@@ -57,7 +57,7 @@ scalable backend operations are empowered by powerful frameworks.
 The following tools represent the core components:
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; ">
+<div style="display: grid; grid-template-columns: repeat(13, 1fr) ; gap: 4px; ">
 <img src="assets/html-5-logo-svgrepo-com.svg" alt="">
 <img src="assets/css-3-svgrepo-com.svg" alt="">
 <img src="assets/javascript-svgrepo-com.svg" alt="">
@@ -74,3 +74,12 @@ The following tools represent the core components:
 </div>
 
 
+## Contribute
+
+If you're passionate about enhancing web development, consider contributing to WebStackProjects. 
+Fork the repository, make your improvements, and submit a pull request to be part of this collaborative journey.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE.md). Check the LICENSE.md file for details.
+Thank you for exploring WebStackProjects! Your feedback and contributions are highly appreciated.
