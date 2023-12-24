@@ -44,3 +44,33 @@ WebStackProjects
 └── LICENSE.md
 
 ```
+
+## Technologies Used
+
+
+These projects intricately incorporate a diverse array of 
+technologies, meticulously chosen to cater to distinct facets of 
+the development process. Employing advanced styling tools, the 
+frontend is meticulously crafted,on the server side, robust and 
+scalable backend operations are empowered by powerful frameworks.
+
+The following tools represent the core components:
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; ">
+<img src="assets/html-5-logo-svgrepo-com.svg" alt="">
+<img src="assets/css-3-svgrepo-com.svg" alt="">
+<img src="assets/javascript-svgrepo-com.svg" alt="">
+<img src="assets/sass-svgrepo-com.svg" alt="">
+<img src="assets/bootstrap-fill-svgrepo-com.svg" alt="">
+<img src="assets/tailwind-svgrepo-com.svg" alt="">
+<img src="assets/react-svgrepo-com.svg" alt="">
+<img src="assets/npm-svgrepo-com.svg" alt="">
+<img src="assets/nodejs-svgrepo-com.svg" alt="">
+<img src="assets/webpack-svgrepo-com.svg" alt="">
+<img src="assets/git-svgrepo-com.svg" alt="">
+<img src="assets/mongodb-svgrepo-com.svg" alt="">
+<img src="assets/icons8-express-js.svg" alt="">
+</div>
+
+
